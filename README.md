@@ -1,1 +1,2 @@
-Built a simple Temperature convertor from Celsius to Fahreneheit vise versa, using a combination ofmaths, if statements and user input.
+Built a simple Temperature convertor using Python.
+From Celsius to Fahreneheit vise versa, using a combination of maths, if statements and user input.
